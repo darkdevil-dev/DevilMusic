@@ -2,7 +2,7 @@ import asyncio
 from pyrogram.enums import ChatType, ChatMemberStatus
 from DEVILMUSIC import app
 from pyrogram import filters
-from DEVILMUSIC.utils.daxx_ban import admin_filter
+from DEVILMUSIC.utils.devil_ban import admin_filter
 
 
 
