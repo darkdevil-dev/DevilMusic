@@ -1,7 +1,7 @@
 import re
 from DEVILMUSIC import app
 from config import BOT_USERNAME
-from DEVILMUSIC.utils.daxx_ban import admin_filter
+from DEVILMUSIC.utils.devil_ban import admin_filter
 from DEVILMUSIC.mongo.filtersdb import *
 from DEVILMUSIC.utils.filters_func import GetFIlterMessage, get_text_reason, SendFilterMessage
 from DEVILMUSIC.utils.yumidb import user_admin
