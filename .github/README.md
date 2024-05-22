@@ -1,28 +1,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+
+<h2 align="center">
+    ──「 Devil X Music 」──
+</h2>
+
 <p align="center">
   <img src="https://telegra.ph/file/6605b123c7dad22bc28cb.jpg">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkdevil-dev&repo=DEVILMUSIC&theme=flag-india)
-
-[![GIF](https://github.com/darkdevil-dev/DEVILMUSIC/blob/main/darkdevil-dev.gif)](https://github.com/darkdevil-dev)
-   [![𝐌𝐑.𝐃EVIL](https://github-stats-alpha.vercel.app/api?username=darkdevil-dev "MRDEVIL")](https://github-stats-alpha.vercel.app/api?username=darkdevil-dev "MRDEVIL")
-
-
-
-
-
-GO TO [RELOAD.PY](https://github.com/darkdevil-dev/DEVILMUSIC/blob/Master/DEVILMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
-
 <p align="center">
-  <img src="https://telegra.ph/file/4abd6e0f613946553de53.jpg">
+<a href="https://github.com/darkdevil-dev/DEVILMUSIC/stargazers"><img src="https://img.shields.io/github/stars/darkdevil-dev/DEVILMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/darkdevil-dev/DEVILMUSIC/network/members"> <img src="https://img.shields.io/github/forks/darkdevil-dev/DEVILMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/darkdevil-dev/DEVILMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://github.com/darkdevil-dev/DEVILMUSIC/commits/DEVILMUSIC"> <img src="https://img.shields.io/github/last-commit/darkdevil-dev/DEVILMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+  <img src="https://telegra.ph/file/47f0f2c22a29321926352.jpg">
 </p>
 
 <h3 align="center">
@@ -31,18 +27,18 @@ GO TO [RELOAD.PY](https://github.com/darkdevil-dev/DEVILMUSIC/blob/Master/DEVILM
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/darkdevil-dev/DEVILMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkdevil-dev&show_icons=true&locale=en&layout=compact" alt="darkdevil-dev" /></p>
+━━━━━━━━━━━━━━━━━━━━
 
-[![Contributors](https://contrib.rocks/image?repo=darkdevil-dev/DEVILMUSIC)](https://github.com/darkdevil-dev/DEVILMUSIC/graphs/contributors)
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
-### Contact :
-<a href="https://t.me/DevilMultiverse"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=a@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<p align="center">
+<a href="https://t.me/DarkDevilsXD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://telegra.ph/file/c37f3eaf3e59e7e64fde7.png" width="800" height="3">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+<a href="https://telegram.me/DevilMultiverse"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴅᴇᴠɪʟ](https://github.com/darkdevil-dev)
