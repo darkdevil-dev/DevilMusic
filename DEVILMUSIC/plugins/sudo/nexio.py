@@ -4,7 +4,7 @@ from DEVILMUSIC import app, userbot
 from DEVILMUSIC.misc import SUDOERS
 from pyrogram import * 
 from pyrogram.types import *
-from DEVILMUSIC.utils.daxx_ban import admin_filter
+from DEVILMUSIC.utils.devil_ban import admin_filter
 
 
 
