@@ -1,4 +1,4 @@
-from DEVILMUSIC.utils.daxx_ban import admin_filter
+from DEVILMUSIC.utils.devil_ban import admin_filter
 import os
 import csv
 from pyrogram import Client, filters
