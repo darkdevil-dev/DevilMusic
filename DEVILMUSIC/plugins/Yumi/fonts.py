@@ -1,7 +1,7 @@
 from pyrogram import  filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from DEVILMUSIC.utils.daxx_font import Fonts
+from DEVILMUSIC.utils.devil_font import Fonts
 from DEVILMUSIC import app
 
 @app.on_message(filters.command(["font", "fonts"]))
