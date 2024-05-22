@@ -1,7 +1,7 @@
 from DEVILMUSIC import app
 from config import BOT_USERNAME
 from pyrogram import filters
-from DEVILMUSIC.utils.daxx_ban import admin_filter
+from DEVILMUSIC.utils.devil_ban import admin_filter
 from DEVILMUSIC.mongo.notesdb import *
 from DEVILMUSIC.utils.notes_func import GetNoteMessage, exceNoteMessageSender, privateNote_and_admin_checker
 from DEVILMUSIC.utils.yumidb import user_admin
