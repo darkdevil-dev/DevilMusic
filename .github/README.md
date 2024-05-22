@@ -5,7 +5,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darkdevil-dev&repo=DEVILMUSIC&theme=flag-india)
 
 [![GIF](https://github.com/darkdevil-dev/DEVILMUSIC/blob/main/darkdevil-dev.gif)](https://github.com/darkdevil-dev)
-   [![𝐌𝐑.𝐃EVIL](https://github-stats-alpha.vercel.app/api?username=darkdevil-dev "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=darkdevil-dev "MRDEVIL")
+   [![𝐌𝐑.𝐃EVIL](https://github-stats-alpha.vercel.app/api?username=darkdevil-dev "MRDEVIL")](https://github-stats-alpha.vercel.app/api?username=darkdevil-dev "MRDEVIL")
 
 
 
@@ -40,5 +40,5 @@ GO TO [RELOAD.PY](https://github.com/darkdevil-dev/DEVILMUSIC/blob/Master/DEVILM
 <a href="https://instagram.com/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
+<img src="https://telegra.ph/file/c37f3eaf3e59e7e64fde7.png" width="800" height="3">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
